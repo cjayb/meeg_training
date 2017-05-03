@@ -1,0 +1,1 @@
+../dipolesInSphere/magsphere_Sarvas.m
